@@ -1,2 +1,2 @@
 # hello_world
-iniatial project
+initial project
